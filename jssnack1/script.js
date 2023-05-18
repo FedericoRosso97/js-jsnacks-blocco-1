@@ -1,16 +1,7 @@
-
-//chiedo utente numeri,
-  
-//
-let numeri;
-for(let i=0;i<10;i++){
- const Number=prompt('inserisci un numero')
- numero=parseInt(Number.value);
-  numeri=[i];
- numeri.push(Number);
- console.log(Number);
- console.log(numeri);
- let somma=i+Number;
-console.log(somma)
+console.log('ciao')
+for(i=0;i<10;i++){
+    let Numero=prompt('inserisci un numero!');
+    const numeri=[Numero];
+    numeri.push(Numero);
+    console.log(numeri);
 }
- 
