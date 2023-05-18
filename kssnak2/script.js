@@ -10,7 +10,7 @@ let isName=false;
 for(let i=0;i<invitati.length;i++){
     if (nome==invitati[i]){
        isName=true;
-       console.log(isName)
+       
     }
 }
-console.log(isName);
+console.log(isName)
