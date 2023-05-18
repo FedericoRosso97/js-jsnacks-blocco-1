@@ -3,7 +3,7 @@
 //chiedo a utente il suo nome 
 //scorro l'array per confronto nome con lista invitati
 //
-const invitati=['mario','luigi','francesco','carolina','ester'];
+const invitati=['mario','luigi','francesco','carolina','ester','francesca'];
 const nome=prompt('scrivi il tuo nome');
 let isName=false;
 
